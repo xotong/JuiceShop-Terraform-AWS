@@ -56,7 +56,7 @@ Make sure you have the following tools installed:
    ```bash
    terraform init
 
-4. Update the Terraform variables in main.tf with your AWS credentials and configuration.
+4. Update the Terraform variables in AWS_Keys_And_Region.tf with your AWS credentials and configuration.
 
 5. Apply the Terraform configuration:
    ```bash

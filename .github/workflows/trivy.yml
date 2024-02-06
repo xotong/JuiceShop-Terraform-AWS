@@ -32,7 +32,7 @@ jobs:
 
       - name: Build an image from Dockerfile
         run: |
-          docker build --tag bkimminich/juice-shop:latest
+          docker build -t bkimminich/juice-shop:latest
 
       - name: Run Trivy vulnerability scanner
         uses: aquasecurity/trivy-action@master

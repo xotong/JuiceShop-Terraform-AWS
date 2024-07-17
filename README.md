@@ -18,7 +18,6 @@ Clone this repository to your local machine.
 Update Terraform variables in main.tf with your AWS credentials and configuration.
 Run terraform init, terraform plan, and terraform apply to deploy Juiceshop on AWS.
 Access the deployed Juiceshop instance and start exploring security challenges!
-Contributing:
 
 
 ## Table of Contents
